@@ -1,0 +1,28 @@
+<!doctype html>  <!-- homework2.html -->
+<html><head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-sacle=1"/>
+  <title>2주차 개인 과제 리스트</title>
+  <style>
+  a:link {color:blue; text-decoration:none;} a:visited { color:purple; text-decoration:none;}
+  a:hover { text-decoration:underline;} a:active {color:red; text-decoration:none;}
+  </style></head>
+<body>
+<h1>000 과제 리스트</h3>
+  <ul><hr/>
+  <li> 2주1회차 </li>
+  <ol>
+    <li> 1-1 https://www.eclipse.org/downloads/ </li>
+    <li> 1-2 eclipse-jee-2018-12-R-win32-x86_64 </li>
+  </ol><hr/>
+  <li> 2주2회차 </li>
+  <ol>
+  <li><a href="https://duddn0818.github.io/WebHomework/2_2_1.html">최서영실습 desktop/moblie용(hw2_2_1.html)</a></li>
+  <li><a href="https://duddn0818.github.io/WebHomework/2_2_2.html">최서영실습 desktop용(hw2_2_2.html)</a></li>
+  </ol><hr/>
+<li> 2주3회차 </li>
+  <ol>
+  <li><a href="https://duddn0818.github.io/WebHomework/2_3_1.html">최서영실습 desktop/moblie용(hw2_3_1.html)</a></li>
+  </ol><hr/>
+  </ul>
+</body></html>
